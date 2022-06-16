@@ -31,7 +31,9 @@
 
 <a href="https://goguming2.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link="/></a>
  
- ![umsounghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=umsounghun&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![umsounghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=umsounghun&show_icons=true&theme=tokyonight) 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <!---
