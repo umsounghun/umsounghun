@@ -21,15 +21,10 @@
 <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="90" height="30"/>
   <p>
 <div align=center>
+ <p>
 
-  
-  
- 
-  
-  <h3 align="center"> This is MyBlog  </h3>
 <p align="center" float="left">
 
-<a href="https://goguming2.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link="/></a>
  
  ![umsounghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=umsounghun&show_icons=true&theme=tokyonight) 
   
